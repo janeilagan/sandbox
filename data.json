@@ -1,0 +1,28 @@
+{
+  "graph": [],
+  "links": [
+	{"source": 10, "target": 2},
+	{"source": 10, "target": 6},
+	{"source": 10, "target": 5},
+	{"source": 10, "target": 1},
+	{"source": 10, "target": 7},
+	{"source": 10, "target": 4},
+	{"source": 10, "target": 8},
+	{"source": 10, "target": 9}
+],
+  "nodes": [
+	{"sl":0, "size": 10, "score": 0.5, "id": "command-based help template", "type":"circle"},
+	{"sl":1, "size": 10, "score": 0.5, "id": "Deployment Lab Kit", "type":"circle"},
+	{"sl":2, "size": 10, "score": 0.5, "id": "Git", "type":"circle"},
+	{"sl":3, "size": 10, "score": 0.5, "id": "home", "type":"circle"},
+	{"sl":4, "size": 10, "score": 0.5, "id": "MS-500", "type":"circle"},
+	{"sl":5, "size": 10, "score": 0.5, "id": "Postman", "type":"circle"},
+	{"sl":6, "size": 10, "score": 0.5, "id": "Python", "type":"circle"},
+	{"sl":7, "size": 10, "score": 0.5, "id": "SC-200", "type":"circle"},
+	{"sl":8, "size": 10, "score": 0.5, "id": "SC-300", "type":"circle"},
+	{"sl":9, "size": 10, "score": 0.5, "id": "SC-400", "type":"circle"},
+	{"sl":10, "size": 10, "score": 0.5, "id": "things i said i will do-learn-read-whatever", "type":"circle"}
+],
+  "directed": false,
+  "multigraph": false
+}
